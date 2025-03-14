@@ -1,6 +1,6 @@
 # parking-lot-system
 
-a simple console-base parking system.  
+a simple console-base parking system in dotnet and java.  
 features:  
     - check-in  
     - check-out  
