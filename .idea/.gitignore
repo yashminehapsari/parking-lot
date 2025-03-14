@@ -1,0 +1,39 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignore project settings and temp files
+.idea/
+*.iml
+*.iws
+
+# Ignore logs, build outputs, and temp files
+/out/
+/target/
+*.class
+*.log
+*.tmp
+*.swp
+
+# Ignore compiled jar/war/ear files
+*.jar
+*.war
+*.ear
+
+# Ignore Maven or Gradle build files
+/.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+dependency-reduced-pom.xml
+release.properties
+target/
+build/
+.gradle/
+*.lock
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
