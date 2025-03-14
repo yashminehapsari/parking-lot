@@ -1,0 +1,16 @@
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.exe
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.deps.json
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.runtimeconfig.json
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.runtimeconfig.dev.json
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.dll
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\ref\dotnet-version.dll
+C:\Bootcamp\test\parking-system\dotnet-version\bin\Debug\net5.0\dotnet-version.pdb
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.csproj.AssemblyReference.cache
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.AssemblyInfoInputs.cache
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.AssemblyInfo.cs
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.csproj.CoreCompileInputs.cache
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.dll
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\ref\dotnet-version.dll
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.pdb
+C:\Bootcamp\test\parking-system\dotnet-version\obj\Debug\net5.0\dotnet-version.genruntimeconfig.cache

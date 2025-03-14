@@ -37,3 +37,7 @@ Thumbs.db
 
 # Ignore environment files
 .env
+
+# Ignore Dotnet build files
+project.lock.json
+project.fragment.lock.json
